@@ -17,3 +17,15 @@ Common commands practiced:
 - `cd` change directory
 - `mkdir` create directories
 - `touch` create files
+
+## Command Line Practice
+
+Practiced navigating directories and creating/removing files.
+
+Commands used:
+- pwd
+- ls
+- mkdir
+- cd
+- touch
+- rm -r
