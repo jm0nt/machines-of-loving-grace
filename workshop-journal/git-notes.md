@@ -16,3 +16,10 @@ Basic workflow:
 
 `git clone` downloads a complete copy of a repository from GitHub to a local machine.  
 This allows developers to work on the same project from different computers.
+
+## Forking vs Cloning
+
+Cloning copies a repository from GitHub to a local machine.
+
+Forking creates a personal copy of someone else's repository on GitHub.  
+This allows a developer to experiment or contribute without changing the original project.
