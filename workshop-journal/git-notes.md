@@ -29,3 +29,16 @@ This allows a developer to experiment or contribute without changing the origina
 A pull request proposes changes from one repository (usually a fork) to another repository.
 
 Maintainers review the changes and decide whether to merge them into the main project.
+
+## Branches
+
+Branches allow developers to work on new features or fixes without affecting the main project.
+
+Changes can later be merged back into the main branch.
+
+## Merging
+
+Merging combines the changes from one branch into another branch.
+
+Developers often merge feature branches back into the main branch
+once the work is complete.
