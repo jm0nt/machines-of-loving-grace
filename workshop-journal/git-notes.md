@@ -23,3 +23,9 @@ Cloning copies a repository from GitHub to a local machine.
 
 Forking creates a personal copy of someone else's repository on GitHub.  
 This allows a developer to experiment or contribute without changing the original project.
+
+## Pull Requests
+
+A pull request proposes changes from one repository (usually a fork) to another repository.
+
+Maintainers review the changes and decide whether to merge them into the main project.
