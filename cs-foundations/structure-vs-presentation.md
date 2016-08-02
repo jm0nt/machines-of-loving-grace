@@ -1,8 +1,6 @@
-# Structure vs Presentation
+# Code Readability
 
-HTML describes the structure of a document.
+Programs are read by humans far more often than they are written.
 
-The visual appearance of that structure is controlled by CSS.
-
-Separating structure from presentation allows the same content
-to be rendered in many different ways.
+Clear formatting and indentation make complex structures easier
+to understand and maintain.
